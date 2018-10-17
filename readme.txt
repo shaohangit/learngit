@@ -1,2 +1,2 @@
 Now I'm learning git
-that's it
+that's it for now
