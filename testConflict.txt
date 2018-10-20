@@ -1,0 +1,1 @@
+this is testConflict.txt in B/dev
